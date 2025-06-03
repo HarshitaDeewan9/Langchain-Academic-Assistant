@@ -8,4 +8,3 @@ docx2txt
 sentence_transformers
 sentence-transformers
 faiss-gpu
-faiss-cpu
