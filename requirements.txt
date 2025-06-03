@@ -4,3 +4,4 @@ pydantic
 langchain_groq
 dotenv
 langchain_community
+docx2txt
