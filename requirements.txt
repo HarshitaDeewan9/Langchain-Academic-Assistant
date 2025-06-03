@@ -6,3 +6,4 @@ dotenv
 langchain_community
 docx2txt
 sentence_transformers
+sentence-transformers
