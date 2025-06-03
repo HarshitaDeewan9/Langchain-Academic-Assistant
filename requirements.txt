@@ -3,3 +3,4 @@ langchain
 pydantic
 langchain_groq
 dotenv
+langchain_community
